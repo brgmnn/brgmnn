@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+https://img.shields.io/badge/-danbergmann-blue?style=flat&logo=Linkedin&logoColor=white
+
+- 🔭 I’m currently working on React/NodeJS
+<!-- - 🌱 I’m currently learning Kotlin / Elixir -->
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-danbergmann-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danbergmann)
+
 <!--
 **brgmnn/brgmnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
