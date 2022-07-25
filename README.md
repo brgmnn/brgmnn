@@ -6,6 +6,7 @@
 - 📫 How to reach me: LinkedIn below
 
 [![Linkedin Badge](https://img.shields.io/badge/-danbergmann-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danbergmann)
+[![Telegram Badge](https://img.shields.io/badge/-danielbergmann-black?style=flat&logo=telegram&logoColor=white)](@danielbergmann)
 
 <!--
 **brgmnn/brgmnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
