@@ -2,7 +2,9 @@
 
 <!-- https://img.shields.io/badge/-danbergmann-blue?style=flat&logo=Linkedin&logoColor=white -->
 
-- 🔭 I’m currently working on React/NodeJS
+- 🔭 I’m currently working on Next.js/React/Node
+- 🕹️ I mod games in my free time
+- ☕️ I'm sipping coffee in my mornings
 
 [![Linkedin Badge](https://img.shields.io/badge/-danbergmann-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danbergmann)
 [![Telegram Badge](https://img.shields.io/badge/-@danielbergmann-black?style=flat&logo=telegram&logoColor=white)](@danielbergmann)
