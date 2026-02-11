@@ -17,6 +17,7 @@
     - [Supreme Tower Defence Map](https://github.com/brgmnn/fa-map-supreme-tower-defence)
 - GTFO:
     - [Autogen Rundown](https://github.com/brgmnn/autogen-rundown)
+    - [Lobby Expansion](https://github.com/brgmnn/GTFO.LobbyExpansion) _(contributing)_
 <!--
 - Thunderstore (Mod portal)
     - [Thunderstore Toolkit](https://github.com/brgmnn/thunderstore-toolkit) — _Github Action_
